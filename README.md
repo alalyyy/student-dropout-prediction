@@ -17,6 +17,7 @@ Machine Learning project to predict student dropout using demographic and academ
 
 ## Repository Structure
 student-dropout-prediction/
+
 ├── MLB_StudentDropoutPrediction.ipynb      
 ├── cleaned_student_dropout.csv           
 ├── data.csv                              
